@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">BIT UTSAV</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="event_name">
+        <item>COOKING WITHOUT FIRE</item>
+        <item>SELFIE HUNT</item>
+        <item>FLOWER ARRANGEMENT</item>
+        <item>MONO ACT</item>
+        <item>QUIZ</item>
+        <item>JAM</item>
+        <item>SPELL CRICKET</item>
+        <item>FACE PAINTING</item>
+        <item>MAD ADS</item>
+        <item>PENCIL SKETCH</item>
+        <item>MINI MILITIA</item>
+        <item>DANCE</item>
+
+
+        <item>MEHENDI</item>
+        <item>MOVIE MAKING</item>
+        <item>MIME</item>
+        <item>COUNTER STRIKE</item>
+        <item>COLLAGE</item>
+        <item>DEBATE</item>
+        <item>PAINTING</item>
+        <item>DUMB CHARADES</item>
+        <item>TREASURE HUNT</item>
+        <item>RANGOLI</item>
+        <item>CLAY MODELLING</item>
+        <item>SKIT</item>
+        <item>PICK AND SPEAK</item>
+        <item>SINGING</item>
+        <item>PHOTOGRAPHY</item>
+        <item>FIFA</item>
+        <item>SELFIE VIDEO</item>
+
+
+    </string-array>
+
+
+</resources>
